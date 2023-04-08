@@ -681,4 +681,4 @@ public class InventoryHandler : MonoBehaviour
         //DragToKeybind - Keybinds>Slots>Slot>Number
         //DragToInventory - Inventory>Slots>Slot>Number
 
-//BUG
+//Test: Script change for Github
